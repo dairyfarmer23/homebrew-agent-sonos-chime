@@ -1,8 +1,8 @@
 class AgentSonosChime < Formula
   desc "Synced Sonos alerts for Codex and Claude Code hooks"
   homepage "https://github.com/dairyfarmer23/agent-sonos-chime"
-  url "https://github.com/dairyfarmer23/agent-sonos-chime/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "03fdbbdfd7c8c667e1b56b04a45df2a7e319528b6858fb996bf49e4b869a3543"
+  url "https://github.com/dairyfarmer23/agent-sonos-chime/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "b27c0ca19eb34378dc625d7f675d0cee9e581beedfd52e2b8ba2d57182c23cb6"
   license "MIT"
 
   depends_on "ffmpeg"
